@@ -1,4 +1,3 @@
-TP1 :
 Soit a < b 
 f une fonction continue 
 f(a)*f(b)<0 , f est strictement monotone  donc d’après le théorème des valeurs intermédiaire f admit une unique racine  ⍺ ∈ [a ;b]  
