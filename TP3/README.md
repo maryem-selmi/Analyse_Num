@@ -14,7 +14,7 @@ prendre les sous-intervalles suffisamment petits.
 Découpons donc l'intervalle [a, b] en n sous-intervalles [x<sub>i-1</sub>,x<sub>i</sub>] de largeur : <br/>
 <img src="https://render.githubusercontent.com/render/math?math=d(x)=\displaystyle\frac{(b-a)}{n}">
 ## Démonstration : 
-<img src="https://github.com/maryem-selmi/Analyse_Num/blob/main/tp3/img/demo.gif" alt="démonstration" width="800" height="400">
+<img src="https://github.com/maryem-selmi/Analyse_Num/blob/main/TP3/img/demo.gif" alt="démonstration" width="800" height="400">
 ## Méthode :
 #### -réctangles :
 Le principe de cette technique est illustré dans la figure (3.1)
