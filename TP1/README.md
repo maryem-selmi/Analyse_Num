@@ -1,4 +1,4 @@
-## TP1 
+## TP1 :Résolution d'équations non linéaires 
 
 f une fonction continue et strictement monotone . Soit a < b on suppose que f(a)*f(b)<0 donc d’après le théorème des valeurs intermédiaire f admit une unique racine ⍺ ∈ [a ;b]
  
