@@ -1,4 +1,4 @@
-## Interpolation et approximation polynômiale
+## TP2 :Interpolation et approximation polynômiale
 ### **Polynome d'interpolation de Lagrange**
 Étant donné une fonction f
 
