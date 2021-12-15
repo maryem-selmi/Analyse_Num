@@ -1,4 +1,4 @@
-# Projet 
+# TP3 :Dérivation et intégration numérique
 - [Introduction](#Introduction)
 - [Démonstration](#Démonstration)
 - [Méthode :](#Méthode) <br/>
