@@ -19,6 +19,7 @@ Le but de ce Tp est de décrire les algorithmes les plus fréquemment utilisés 
 Dans ce Tp, on dispose d'une fonction f, connue par exemple uniquement parses valeurs en certains points, et on cherche à remplacer ou à approcher f par une fonction plus simple, le plus souvent par un polynôme. Nous verrons dans ce contexte,l'interpolation qui consiste à rechercher un polynôme qui passe exactement par les points donnés
 ## Tp3 :
 ###  Dérivation et intégration numérique
-Le but de ce Tp est double : indiquer comment calculer de façon approchée une dérivée et décrire les méthodes de base pour le calcul numérique d'intégrales. 
-- <img src="https://github.com/maryem-selmi/Analyse_Num/blob/main/TP3/img/demo.gif" alt="démonstration" width="800" height="400">
+
+
+ <img src="https://github.com/maryem-selmi/Analyse_Num/blob/main/TP3/img/demo.gif" alt="démonstration" width="800" height="400">
 
